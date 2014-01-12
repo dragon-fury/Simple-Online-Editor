@@ -1,0 +1,22 @@
+h1 {
+	font-size: 30px;
+	text-align: center;
+}
+
+.frame {
+	float:left;
+}
+
+#project {
+	width: 15%;
+	height: 800px;
+	overflow: scroll;
+	border: 1px solid #000;
+	padding: 0 15px 10px;
+}
+
+#editor {
+	width: 80%;
+	height: 800px;
+	border: 1px solid #000;
+}
